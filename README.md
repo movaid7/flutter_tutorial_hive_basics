@@ -9,4 +9,4 @@
 
 - Setting up a Hive box
 
-- CRUD operations on a Hive box
+- CRUD operations using Hive
